@@ -5,9 +5,11 @@
     ],
     "frontMatter.content.fmHighlight": true,
     "frontMatter.taxonomy.tags": [
-        "HTML",
-        "CSS",
-        "Javascript",
+        "lang:CSS",
+        "lang:HTML",
+        "lang:Javascript",
+        "lang:Typescript",
+        "lang:XML"
     ],
     "frontMatter.taxonomy.categories": [
         "아무거나/진짜 아무거나",
@@ -17,6 +19,7 @@
         "웹 퍼블리싱 정복하기/Javascript",
         "웹 퍼블리싱 정복하기/기타",
         "vscode",
+        "vscode/확장",
     ],
     "frontMatter.content.pageFolders": [
         { "title": "root", "path": "docs", "excludeSubdir": true }
