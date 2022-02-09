@@ -5,6 +5,7 @@
     ],
     "frontMatter.content.fmHighlight": true,
     "frontMatter.taxonomy.tags": [
+        "vsc-ext:Theme",
         "lang:CSS",
         "lang:HTML",
         "lang:Javascript",
